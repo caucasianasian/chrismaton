@@ -35,7 +35,7 @@ h4{
 }
 .left-side{
 	transition: all 0.6s;
-	background-image: url("assets/images/hero.jpg");
+	background-image: url("./hero.jpg");
 	background-size: cover;
 	background-position: center;
 }
@@ -171,7 +171,7 @@ h4{
 	align-items: center;
 }
 .profilePic{
-	background-image: url("assets/images/profilePic.png");
+	background-image: url("./profilePic.png");
 	width: 180px;
 	height: 180px;
 	background-size: cover;
